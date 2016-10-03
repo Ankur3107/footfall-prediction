@@ -11,6 +11,7 @@ They now have this data over a long period of time and are looking for experts l
 
 Go, help the mayor of Gardenia! He has high hopes from Analytics Vidhya community! All the best!
 
+
 **Key Points:**
 
 1. It has data for period Sep'1990 to Dec'2005
@@ -18,6 +19,8 @@ Go, help the mayor of Gardenia! He has high hopes from Analytics Vidhya communit
 2. The training data for period Sep'1990 to Dec'2001
 
 3. Public leaderboard is for first 2 years of the test dataset (Jan'2002 and Dec'2003) and rest of test dataset is used for Private leaderboard
+
+Link : https://datahack.analyticsvidhya.com/contest/the-ultimate-student-hunt/
 
 # Contest:
 Ultimate Student Hunt Machine Learning Challenge by Analytics Vidhya .
@@ -36,4 +39,5 @@ Winning RMSE : 100.211297
 # Team
 
 Team Name : Data Scroungers
+
 Team Member : Ankur Singh & Shashank Gupta
